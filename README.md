@@ -1,6 +1,6 @@
 # MediQuery-AI: Conversational Medical Assistant Using LLMs
 
-**MediQuery-AI** is an intelligent conversational agent built to answer medical questions by combining the power of **Large Language Models (LLMs)**, **vector-based document retrieval**, and **session-aware memory**. Users can interact through a responsive frontend powered by HTML, CSS, JavaScript, and Flask, making complex medical information accessible through a natural chat interface.
+**MediQuery-AI** is an intelligent conversational agent built to answer medical questions by combining the power of **Large Language Models (LLMs)**, **vector-based document retrieval**, **Retrieval-Augmented Generation (RAG)** and **session-aware memory**. Users can interact through a responsive frontend powered by HTML, CSS, JavaScript, and Flask, making complex medical information accessible through a natural chat interface.
 
 ## 📌 Project Objective
 
